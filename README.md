@@ -3,5 +3,5 @@
 **My Favorite Things**
 
 - My dog
-  -Spicy Food
+- Spicy Food
 - Retro Video games
